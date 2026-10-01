@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<scalastyle>
+    <name>Scalastyle configuration</name>
+    <check level="warning" class="org.scalastyle.file.FileTabChecker" enabled="true"/>
+    <check level="warning" class="org.scalastyle.scalariform.NoWhitespaceBeforeLeftBracketChecker" enabled="true"/>
+    <check level="warning" class="org.scalastyle.scalariform.NoWhitespaceAfterLeftBracketChecker" enabled="true"/>
+</scalastyle>
